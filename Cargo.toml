@@ -14,7 +14,7 @@ base64 = "0.11"
 lazy_static = "1.4"
 colored = "1.8"
 rayon = "1.2"
-component_group = "1.0"
+component_group = "2.0"
 rusttype = "0.7"
 
 [dependencies.sdl2]
